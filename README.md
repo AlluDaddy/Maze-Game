@@ -3,7 +3,7 @@
 
 Github link - https://github.com/AlluDaddy/Maze-Game
 
-Heroku_Link - https://git.heroku.com/boiling-brook-39925.git
+Heroku_Link - https://boiling-brook-39925.herokuapp.com/
 
 Youtube link - https://youtu.be/fTOrBcdb9qs
 
